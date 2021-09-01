@@ -26,4 +26,3 @@ Here are some ideas to get you started:
 	
   </div>
   
-  <script src="https://gist.github.com/HelloJihyoung/35515d93fff691665cc299a22cd3d33b.js"></script>
