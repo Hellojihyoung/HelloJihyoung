@@ -1,4 +1,4 @@
-## Hello This is Jihyoung 😀
+## Hello This is Jihyoung 
 
 ## About me
 🏫 I’m majoring in computer science and engineering. <br>
