@@ -16,4 +16,7 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellojihyoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 
+## Certificate
+<img src="https://user-images.githubusercontent.com/59171154/232518884-7b6a2d9f-78b7-4e21-aa32-ee25e9b003ce.png" width="130" height="130"/>
+
+
