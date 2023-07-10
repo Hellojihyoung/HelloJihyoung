@@ -4,9 +4,6 @@
 🏫 I’m majoring in computer science and engineering. <br>
 🍄 I'm interested in Backend Development.
 
-  
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hellojihyoung)](https://github.com/anuraghazra/github-readme-stats)
- 
  
  ## Teck Stack
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=Go&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white"/>
